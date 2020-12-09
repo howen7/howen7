@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**howen7/howen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my page.
 
-Here are some ideas to get you started:
+Check out some of the pinned repos below to see the projects I've worked on. 
+From them you will find that data can help you....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Classify stages of Alzheimers.
+2. Predict how much your house will sell for
+3. Help determine the best zipcode to invest real estate in
+4. Determine when a customer will likely leave a company
+
+
+Right now I'm using Flask to implement my Convolutional Nuerel network to a web application. 
+
+### About me
+
+Gradguated Iowa state with an Aerospace engineering degree 
